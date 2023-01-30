@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/DSA Lab/essa_lab1task/nand_stimulas_isim_beh.exe" -prj "C:/Users/DSA Lab/essa_lab1task/nand_stimulas_beh.prj" "work.nand_stimulas" "work.glbl" 

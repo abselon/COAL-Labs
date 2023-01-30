@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/DSA Lab/essa_lab1task/nand_MODULE.xst" -ofn "C:/Users/DSA Lab/essa_lab1task/nand_MODULE.syr" 
